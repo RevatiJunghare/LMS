@@ -1,0 +1,1592 @@
+{
+    "unit": {
+        "title": "Beginner courses in Web Development",
+        "raw_title": "Beginner courses in {}",
+        "source_objects": [
+            {
+                "id": 8322,
+                "type": "course_label",
+                "title": "Web Development",
+                "url": "/topic/web-development/",
+                "description": "The world of web development is as wide as the internet itself. Much of our social and vocational lives play out on the internet, which prompts new industries aimed at creating, managing, and debugging the websites and applications that we increasingly rely on."
+            }
+        ],
+        "item_type": "course",
+        "items": [
+            {
+                "_class": "course",
+                "id": 881980,
+                "title": "Pre-Programming: Everything you need to know before you code",
+                "url": "/course/pre-programming-everything-you-need-to-know-before-you-code/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 18187,
+                        "title": "Evan Kimbrell",
+                        "name": "Evan",
+                        "display_name": "Evan Kimbrell",
+                        "job_title": "Founder of Sprintkick | Ex-VC  | Ex-startup founder",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/18187_dbc6_6.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/18187_dbc6_6.jpg",
+                        "initials": "EK",
+                        "url": "/user/evankimbrell/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/881980_fc8f.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/881980_fc8f.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/881980_fc8f.jpg",
+                "published_title": "pre-programming-everything-you-need-to-know-before-you-code",
+                "tracking_id": "UyqG23JlQtOX8xR4Un6unA",
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "headline": "Increase your chance of success learning to code and communicating with other developers",
+                "num_subscribers": 122525,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "tr_TR",
+                        "title": "Türkçe",
+                        "english_title": "Turkish"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "vi_VN",
+                        "title": "Tiếng Việt",
+                        "english_title": "Vietnamese"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "zh_CN",
+                        "title": "中文(简体)",
+                        "english_title": "Simplified Chinese (China)"
+                    }
+                ],
+                "avg_rating": 4.6303315,
+                "avg_rating_recent": 4.6152763,
+                "rating": 4.6152763,
+                "num_reviews": 11668,
+                "is_wishlisted": false,
+                "num_published_lectures": 87,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/881980_fc8f.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/881980_fc8f.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/881980_fc8f.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/881980_fc8f.jpg",
+                "is_in_user_subscription": false,
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English",
+                    "Simplified Chinese [Auto]",
+                    "Turkish [Auto]",
+                    "Vietnamese [Auto]"
+                ],
+                "created": "2016-06-19T00:25:48Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2016-11-13T17:24:46Z",
+                "objectives_summary": [
+                    "Better understand the fundamentals of how programming works",
+                    "Understand the fundamentals of how computers work and how that relates to modern web technology",
+                    "Choose what programming language and path they want to pursue in their career"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2023-12-30",
+                "preview_url": "/course/881980/preview/",
+                "learn_url": "/course/pre-programming-everything-you-need-to-know-before-you-code/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "has_508_closed_captions": false,
+                "is_coding_exercises_badge_eligible": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "6.5 total hours",
+                "content_info_short": "6.5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 288,
+                        "title": "Development",
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 8322,
+                        "display_name": "Web Development",
+                        "title": "Web Development",
+                        "topic_channel_url": "/topic/web-development/",
+                        "url": "/topic/web-development/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 818990,
+                "title": "Git a Web Developer Job: Mastering the Modern Workflow",
+                "url": "/course/git-a-web-developer-job-mastering-the-modern-workflow/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 5993622,
+                        "title": "Brad Schiff",
+                        "name": "Brad",
+                        "display_name": "Brad Schiff",
+                        "job_title": "Web Developer",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/5993622_f5da_2.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/5993622_f5da_2.jpg",
+                        "initials": "BS",
+                        "url": "/user/bradschiff/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/818990_57c0_3.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/818990_57c0_3.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/818990_57c0_3.jpg",
+                "published_title": "git-a-web-developer-job-mastering-the-modern-workflow",
+                "tracking_id": "iTmG3DywTVqYud5wFpjFsQ",
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "headline": "Learn Git, GitHub, Node.js, NPM, Object-oriented JavaScript, ES6, webpack, Netlify, BEM and Job Interview Tips",
+                "num_subscribers": 35658,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "es_ES",
+                        "title": "Español (España)",
+                        "english_title": "Spanish (Spain)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "it_IT",
+                        "title": "Italiano",
+                        "english_title": "Italian"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "pl_PL",
+                        "title": "Polski",
+                        "english_title": "Polish"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "pt_BR",
+                        "title": "Português (Brasil)",
+                        "english_title": "Portuguese (Brazil)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "th_TH",
+                        "title": "ภาษาไทย",
+                        "english_title": "Thai"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "vi_VN",
+                        "title": "Tiếng Việt",
+                        "english_title": "Vietnamese"
+                    }
+                ],
+                "avg_rating": 4.734375,
+                "avg_rating_recent": 4.794468,
+                "rating": 4.794468,
+                "num_reviews": 7169,
+                "is_wishlisted": false,
+                "num_published_lectures": 73,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/818990_57c0_3.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/818990_57c0_3.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/818990_57c0_3.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/818990_57c0_3.jpg",
+                "is_in_user_subscription": false,
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]",
+                    "Italian [Auto]",
+                    "Polish [Auto]",
+                    "Portuguese [Auto]",
+                    "Spanish [Auto]",
+                    "Thai [Auto]",
+                    "Vietnamese [Auto]"
+                ],
+                "created": "2016-04-11T19:04:31Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2016-08-28T17:54:07Z",
+                "objectives_summary": [
+                    "Build websites using the modern skills, tools, and best-practices that companies are looking for in developers.",
+                    "Write organized, well structured JavaScript and CSS that other developers can easily understand.",
+                    "Confidently apply for web developer jobs knowing you can jump into a dev team and immediately contribute to projects."
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2023-06-27",
+                "preview_url": "/course/818990/preview/",
+                "learn_url": "/course/git-a-web-developer-job-mastering-the-modern-workflow/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "has_508_closed_captions": false,
+                "is_coding_exercises_badge_eligible": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "16 total hours",
+                "content_info_short": "16 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 288,
+                        "title": "Development",
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 8322,
+                        "display_name": "Web Development",
+                        "title": "Web Development",
+                        "topic_channel_url": "/topic/web-development/",
+                        "url": "/topic/web-development/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 2488654,
+                "title": "The Complete 2023 PHP Full Stack Web Developer Bootcamp",
+                "url": "/course/the-complete-php-full-stack-web-developer-bootcamp/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 72606304,
+                        "title": "Srini Vanamala",
+                        "name": "Srini",
+                        "display_name": "Srini Vanamala",
+                        "job_title": "IT Architect",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/72606304_f73a_4.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/72606304_f73a_4.jpg",
+                        "initials": "SV",
+                        "url": "/user/phptraining/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/2488654_e156_3.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/2488654_e156_3.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/2488654_e156_3.jpg",
+                "published_title": "the-complete-php-full-stack-web-developer-bootcamp",
+                "tracking_id": "8zrWI54hSEG7OmdzuQbgdg",
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "headline": "Learn to build websites with HTML , CSS , JAVASCRIPT , Bootstrap , PHP , MySQL , WordPress , OOP & more!",
+                "num_subscribers": 136251,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    }
+                ],
+                "avg_rating": 4.3125,
+                "avg_rating_recent": 4.372249,
+                "rating": 4.372249,
+                "num_reviews": 5249,
+                "is_wishlisted": false,
+                "num_published_lectures": 307,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/2488654_e156_3.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/2488654_e156_3.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/2488654_e156_3.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/2488654_e156_3.jpg",
+                "is_in_user_subscription": false,
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]"
+                ],
+                "created": "2019-08-01T13:11:00Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2019-10-01T18:02:15Z",
+                "objectives_summary": [
+                    "Become Web Developer and Start Earning.",
+                    "Apply for Job as Junior Web Developer.",
+                    "Become Freelancer Web developer on Fiverr or UpWork."
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2023-10-23",
+                "preview_url": "/course/2488654/preview/",
+                "learn_url": "/course/the-complete-php-full-stack-web-developer-bootcamp/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "has_508_closed_captions": false,
+                "is_coding_exercises_badge_eligible": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "49 total hours",
+                "content_info_short": "49 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 288,
+                        "title": "Development",
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 8322,
+                        "display_name": "Web Development",
+                        "title": "Web Development",
+                        "topic_channel_url": "/topic/web-development/",
+                        "url": "/topic/web-development/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 99986,
+                "title": "Introduction to Web Development",
+                "url": "/course/introduction-to-web-development/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 11439,
+                        "title": "SkillSprints Inc.",
+                        "name": "SkillSprints",
+                        "display_name": "SkillSprints Inc.",
+                        "job_title": "Closing the Digital Skills Gap",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/11439_12bd_18.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/11439_12bd_18.jpg",
+                        "initials": "SI",
+                        "url": "/user/marklassoff/"
+                    },
+                    {
+                        "_class": "user",
+                        "id": 22632534,
+                        "title": "Mark Lassoff",
+                        "name": "Mark",
+                        "display_name": "Mark Lassoff",
+                        "job_title": "Programming Instructor with over 500,000 students worldwide.",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/22632534_6ae1.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/22632534_6ae1.jpg",
+                        "initials": "ML",
+                        "url": "/user/mark-lassoff/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/99986_6cb4_12.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/99986_6cb4_12.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/99986_6cb4_12.jpg",
+                "published_title": "introduction-to-web-development",
+                "tracking_id": "9hVtobnHS0m9hrNBkcZTwA",
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "headline": "Are you Interested in Learning Web Development? Enroll in this Free course for a Dynamic Introduction to the Profession!",
+                "num_subscribers": 24287,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "de_DE",
+                        "title": "Deutsch",
+                        "english_title": "German"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "es_ES",
+                        "title": "Español (España)",
+                        "english_title": "Spanish (Spain)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "fr_FR",
+                        "title": "Français (France)",
+                        "english_title": "French (France)"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "id_ID",
+                        "title": "Bahasa Indonesia",
+                        "english_title": "Indonesian"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "it_IT",
+                        "title": "Italiano",
+                        "english_title": "Italian"
+                    },
+                    {
+                        "_class": "locale",
+                        "locale": "pt_BR",
+                        "title": "Português (Brasil)",
+                        "english_title": "Portuguese (Brazil)"
+                    }
+                ],
+                "avg_rating": 4.5350876,
+                "avg_rating_recent": 4.5005336,
+                "rating": 4.5005336,
+                "num_reviews": 2182,
+                "is_wishlisted": false,
+                "num_published_lectures": 14,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/99986_6cb4_12.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/99986_6cb4_12.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/99986_6cb4_12.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/99986_6cb4_12.jpg",
+                "is_in_user_subscription": false,
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English",
+                    "French [Auto]",
+                    "German [Auto]",
+                    "Indonesian [Auto]",
+                    "Italian [Auto]",
+                    "Portuguese [Auto]",
+                    "Spanish [Auto]"
+                ],
+                "created": "2013-10-01T14:21:29Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2013-10-04T13:40:59Z",
+                "objectives_summary": [
+                    "Understand the technologies used in web development",
+                    "Identify the tools used by web developers",
+                    "Apply HTML document structure"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2016-04-11",
+                "preview_url": "/course/99986/preview/",
+                "learn_url": "/course/introduction-to-web-development/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "has_508_closed_captions": false,
+                "is_coding_exercises_badge_eligible": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "2 total hours",
+                "content_info_short": "2 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 288,
+                        "title": "Development",
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 8322,
+                        "display_name": "Web Development",
+                        "title": "Web Development",
+                        "topic_channel_url": "/topic/web-development/",
+                        "url": "/topic/web-development/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 2444060,
+                "title": "How the Internet Works & the Web Development Process",
+                "url": "/course/how-the-internet-works-the-web-development-process/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 26018032,
+                        "title": "YouAccel Training",
+                        "name": "YouAccel",
+                        "display_name": "YouAccel Training",
+                        "job_title": "8+ Million Enrollments, 70k+ Reviews. Register Today.",
+                        "image_50x50": "https://img-b.udemycdn.com/user/50x50/26018032_40e0_7.jpg",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/26018032_40e0_7.jpg",
+                        "initials": "YT",
+                        "url": "/user/youaccel/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/2444060_b144_4.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/2444060_b144_4.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/2444060_b144_4.jpg",
+                "published_title": "how-the-internet-works-the-web-development-process",
+                "tracking_id": "tnzm6YtdQViAIFPN4tWrOw",
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "headline": "Learn how the Internet Works - HTTP/HTTPS, Mail Delivery (SMTP), LAN, WAN, Network Basics & Firewalls",
+                "num_subscribers": 154174,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    }
+                ],
+                "avg_rating": 4.0,
+                "avg_rating_recent": 4.2302647,
+                "rating": 4.2302647,
+                "num_reviews": 1739,
+                "is_wishlisted": false,
+                "num_published_lectures": 9,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/2444060_b144_4.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/2444060_b144_4.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/2444060_b144_4.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/2444060_b144_4.jpg",
+                "is_in_user_subscription": false,
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]"
+                ],
+                "created": "2019-07-04T20:11:29Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2019-07-18T19:03:54Z",
+                "objectives_summary": [
+                    "How the Internet Facilities the movement of Data Packets",
+                    "The Difference between Local and Wide Area Networks (LAN, WAN)",
+                    "The Basics of the HTTP and HTTPS Protocols"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2019-07-04",
+                "preview_url": "/course/2444060/preview/",
+                "learn_url": "/course/how-the-internet-works-the-web-development-process/learn/",
+                "is_in_personal_plan_collection": false,
+                "is_in_premium": false,
+                "has_508_closed_captions": false,
+                "is_coding_exercises_badge_eligible": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "37 total mins",
+                "content_info_short": "37 mins",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 288,
+                        "title": "Development",
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 8322,
+                        "display_name": "Web Development",
+                        "title": "Web Development",
+                        "topic_channel_url": "/topic/web-development/",
+                        "url": "/topic/web-development/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 2334226,
+                "title": "Internet and Web Development Fundamentals",
+                "url": "/course/internet-and-web-development-fundamentals/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 26018032,
+                        "title": "YouAccel Training",
+                        "name": "YouAccel",
+                        "display_name": "YouAccel Training",
+                        "job_title": "8+ Million Enrollments, 70k+ Reviews. Register Today.",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/26018032_40e0_7.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/26018032_40e0_7.jpg",
+                        "initials": "YT",
+                        "url": "/user/youaccel/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/2334226_3436_3.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/2334226_3436_3.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/2334226_3436_3.jpg",
+                "published_title": "internet-and-web-development-fundamentals",
+                "tracking_id": "D6n7C7p7QK6JFs716jM9xg",
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "headline": "Learn how the Internet Works and Setup a Testing & Production Web Server",
+                "num_subscribers": 167209,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    }
+                ],
+                "avg_rating": 4.3846154,
+                "avg_rating_recent": 4.3257,
+                "rating": 4.3257,
+                "num_reviews": 1595,
+                "is_wishlisted": false,
+                "num_published_lectures": 62,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/2334226_3436_3.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/2334226_3436_3.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/2334226_3436_3.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/2334226_3436_3.jpg",
+                "is_in_user_subscription": false,
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]"
+                ],
+                "created": "2019-04-23T00:18:21Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2019-04-24T15:35:33Z",
+                "objectives_summary": [
+                    "How the Internet Works",
+                    "Internet Protocols (HTTP, HTTPS, SMTP)",
+                    "The Web Development Process"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-04-11",
+                "preview_url": "/course/2334226/preview/",
+                "learn_url": "/course/internet-and-web-development-fundamentals/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "has_508_closed_captions": false,
+                "is_coding_exercises_badge_eligible": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "4 total hours",
+                "content_info_short": "4 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 288,
+                        "title": "Development",
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 8322,
+                        "display_name": "Web Development",
+                        "title": "Web Development",
+                        "topic_channel_url": "/topic/web-development/",
+                        "url": "/topic/web-development/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 530308,
+                "title": "Introduction to Programming",
+                "url": "/course/introduction-to-programming-level-i/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 11439,
+                        "title": "SkillSprints Inc.",
+                        "name": "SkillSprints",
+                        "display_name": "SkillSprints Inc.",
+                        "job_title": "Closing the Digital Skills Gap",
+                        "image_50x50": "https://img-b.udemycdn.com/user/50x50/11439_12bd_18.jpg",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/11439_12bd_18.jpg",
+                        "initials": "SI",
+                        "url": "/user/marklassoff/"
+                    },
+                    {
+                        "_class": "user",
+                        "id": 22632534,
+                        "title": "Mark Lassoff",
+                        "name": "Mark",
+                        "display_name": "Mark Lassoff",
+                        "job_title": "Programming Instructor with over 500,000 students worldwide.",
+                        "image_50x50": "https://img-b.udemycdn.com/user/50x50/22632534_6ae1.jpg",
+                        "image_100x100": "https://img-b.udemycdn.com/user/100x100/22632534_6ae1.jpg",
+                        "initials": "ML",
+                        "url": "/user/mark-lassoff/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/530308_8ca0_5.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/530308_8ca0_5.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/530308_8ca0_5.jpg",
+                "published_title": "introduction-to-programming-level-i",
+                "tracking_id": "iLugY6JTSvueyiauesPNoA",
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "headline": "Professional Coding Skills for Beginners",
+                "num_subscribers": 7272,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    }
+                ],
+                "avg_rating": 4.5581393,
+                "avg_rating_recent": 4.552932,
+                "rating": 4.552932,
+                "num_reviews": 1550,
+                "is_wishlisted": false,
+                "num_published_lectures": 173,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/530308_8ca0_5.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/530308_8ca0_5.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/530308_8ca0_5.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/530308_8ca0_5.jpg",
+                "is_in_user_subscription": false,
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]"
+                ],
+                "created": "2015-06-17T12:27:57Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2016-05-17T19:30:22Z",
+                "objectives_summary": [
+                    "What is HTML5?",
+                    "How to Display HTML5 Code in a Browser",
+                    "The Tool to Use for Coding"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2017-01-03",
+                "preview_url": "/course/530308/preview/",
+                "learn_url": "/course/introduction-to-programming-level-i/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "has_508_closed_captions": false,
+                "is_coding_exercises_badge_eligible": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "12 total hours",
+                "content_info_short": "12 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 288,
+                        "title": "Development",
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 8322,
+                        "display_name": "Web Development",
+                        "title": "Web Development",
+                        "topic_channel_url": "/topic/web-development/",
+                        "url": "/topic/web-development/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 3014898,
+                "title": "The Creative HTML5 & CSS3 Course - Build Awesome Websites",
+                "url": "/course/the-creative-html5-css3-course-build-awesome-websites/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 31950696,
+                        "title": "Dev Ed",
+                        "name": "Dev",
+                        "display_name": "Dev Ed",
+                        "job_title": "Creative Teacher",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/31950696_5962.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/31950696_5962.jpg",
+                        "initials": "DE",
+                        "url": "/user/simo-edwin/"
+                    },
+                    {
+                        "_class": "user",
+                        "id": 162929736,
+                        "title": "Maxine Tillman",
+                        "name": "Maxine",
+                        "display_name": "Maxine Tillman",
+                        "job_title": "Software Engineer",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/162929736_553e.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/162929736_553e.jpg",
+                        "initials": "MT",
+                        "url": "/user/maxine-tillman/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/3014898_c2e1_3.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/3014898_c2e1_3.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/3014898_c2e1_3.jpg",
+                "published_title": "the-creative-html5-css3-course-build-awesome-websites",
+                "tracking_id": "51ogu8K_RdGokMWtZXYuTg",
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "headline": "Learn HTML5 and CSS3 by creating 3 amazing, well designed and animated websites from scratch!",
+                "num_subscribers": 6038,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    }
+                ],
+                "avg_rating": 4.719512,
+                "avg_rating_recent": 4.7882185,
+                "rating": 4.7882185,
+                "num_reviews": 1295,
+                "is_wishlisted": false,
+                "num_published_lectures": 77,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/3014898_c2e1_3.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/3014898_c2e1_3.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/3014898_c2e1_3.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/3014898_c2e1_3.jpg",
+                "is_in_user_subscription": false,
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]"
+                ],
+                "created": "2020-04-17T09:59:28Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2020-04-29T15:28:47Z",
+                "objectives_summary": [
+                    "Create Websites from absolute scratch!",
+                    "Learn the principles of web development.",
+                    "Styling nice looking websites."
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2020-05-14",
+                "preview_url": "/course/3014898/preview/",
+                "learn_url": "/course/the-creative-html5-css3-course-build-awesome-websites/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "has_508_closed_captions": false,
+                "is_coding_exercises_badge_eligible": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "13 total hours",
+                "content_info_short": "13 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 288,
+                        "title": "Development",
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 5306,
+                        "display_name": "CSS",
+                        "title": "CSS",
+                        "topic_channel_url": "/topic/css/",
+                        "url": "/topic/css/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 3794620,
+                "title": "Java Basics for Beginners: Learn Coding with Java",
+                "url": "/course/java-programming-for-beginners-learn-coding-with-java/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 51247274,
+                        "title": "Victor Gorinov",
+                        "name": "Victor",
+                        "display_name": "Victor Gorinov",
+                        "job_title": "Software Automation Engineer, Instructor, 80,000+ Students",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/51247274_00c2_2.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/51247274_00c2_2.jpg",
+                        "initials": "VG",
+                        "url": "/user/victor-gorinov-2/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/3794620_2f4c_3.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/3794620_2f4c_3.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/3794620_2f4c_3.jpg",
+                "published_title": "java-programming-for-beginners-learn-coding-with-java",
+                "tracking_id": "LKamoREKTe6ZCCUai2G6Ng",
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "headline": "Learn Java Basics with Real Coding Examples. Become a Java Programmer From Complete Beginner",
+                "num_subscribers": 5024,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    }
+                ],
+                "avg_rating": 4.4247494,
+                "avg_rating_recent": 4.4431047,
+                "rating": 4.4431047,
+                "num_reviews": 1216,
+                "is_wishlisted": false,
+                "num_published_lectures": 16,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/3794620_2f4c_3.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/3794620_2f4c_3.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/3794620_2f4c_3.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/3794620_2f4c_3.jpg",
+                "is_in_user_subscription": false,
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]"
+                ],
+                "created": "2021-01-22T22:55:05Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2021-01-26T12:38:10Z",
+                "objectives_summary": [
+                    "Learn the fundamentals of Java",
+                    "Learn the core principles of Programming",
+                    "Learn the core Java skills needed for your first Java developer position"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-05-02",
+                "preview_url": "/course/3794620/preview/",
+                "learn_url": "/course/java-programming-for-beginners-learn-coding-with-java/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "has_508_closed_captions": false,
+                "is_coding_exercises_badge_eligible": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "2 total hours",
+                "content_info_short": "2 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 288,
+                        "title": "Development",
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 6336,
+                        "display_name": "Java",
+                        "title": "Java",
+                        "topic_channel_url": "/topic/java/",
+                        "url": "/topic/java/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 4699716,
+                "title": "The Bubble Beginners Bootcamp Course",
+                "url": "/course/the-bubble-beginners-bootcamp-course/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 24571650,
+                        "title": "Gregory John",
+                        "name": "Gregory",
+                        "display_name": "Gregory John",
+                        "job_title": "Co-Founder of Buildcamp & Frames, Yale University instructor",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/24571650_e5d2_11.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/24571650_e5d2_11.jpg",
+                        "initials": "GJ",
+                        "url": "/user/greg-keegan/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/4699716_b1fe_2.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/4699716_b1fe_2.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/4699716_b1fe_2.jpg",
+                "published_title": "the-bubble-beginners-bootcamp-course",
+                "tracking_id": "mcTbfoAMQrWlNF74fddp_Q",
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "headline": "Learn from Gregory John, a Yale University nocode instructor, Bubble bootcamp trainer and startup entrepreneur.",
+                "num_subscribers": 4822,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    }
+                ],
+                "avg_rating": 4.7166667,
+                "avg_rating_recent": 4.697682,
+                "rating": 4.697682,
+                "num_reviews": 1154,
+                "is_wishlisted": false,
+                "num_published_lectures": 59,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/4699716_b1fe_2.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/4699716_b1fe_2.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/4699716_b1fe_2.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/4699716_b1fe_2.jpg",
+                "is_in_user_subscription": false,
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "Anglais [Aut.]"
+                ],
+                "created": "2022-05-23T11:41:47Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2022-05-26T17:51:46Z",
+                "objectives_summary": [
+                    "Building a dashboard style application",
+                    "Mastering the Bubble editor",
+                    "Setting up the database"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2022-05-26",
+                "preview_url": "/course/4699716/preview/",
+                "learn_url": "/course/the-bubble-beginners-bootcamp-course/learn/",
+                "is_in_personal_plan_collection": false,
+                "is_in_premium": false,
+                "has_508_closed_captions": false,
+                "is_coding_exercises_badge_eligible": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "11.5 total hours",
+                "content_info_short": "11.5 hours",
+                "bestseller_badge_content": {
+                    "_class": "ds_course_badge",
+                    "id": "7ea006de0d414401b2032025f35c34af",
+                    "badge_text": "Bestseller",
+                    "badge_family": "bestseller",
+                    "context_info": {
+                        "category": {
+                            "id": 288,
+                            "title": "Development",
+                            "url": "/courses/development/",
+                            "tracking_object_type": "cat"
+                        },
+                        "subcategory": null,
+                        "label": {
+                            "id": 93657,
+                            "display_name": "Bubble Visual Programming",
+                            "title": "Bubble Visual Programming",
+                            "topic_channel_url": "/topic/bubble-visual-programming/",
+                            "url": "/topic/bubble-visual-programming/",
+                            "tracking_object_type": "cl"
+                        }
+                    }
+                },
+                "badges": [
+                    {
+                        "_class": "ds_course_badge",
+                        "id": "7ea006de0d414401b2032025f35c34af",
+                        "badge_text": "Bestseller",
+                        "badge_family": "bestseller",
+                        "context_info": {
+                            "category": {
+                                "id": 288,
+                                "title": "Development",
+                                "url": "/courses/development/",
+                                "tracking_object_type": "cat"
+                            },
+                            "subcategory": null,
+                            "label": {
+                                "id": 93657,
+                                "display_name": "Bubble Visual Programming",
+                                "title": "Bubble Visual Programming",
+                                "topic_channel_url": "/topic/bubble-visual-programming/",
+                                "url": "/topic/bubble-visual-programming/",
+                                "tracking_object_type": "cl"
+                            }
+                        }
+                    }
+                ],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 288,
+                        "title": "Development",
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 8322,
+                        "display_name": "Web Development",
+                        "title": "Web Development",
+                        "topic_channel_url": "/topic/web-development/",
+                        "url": "/topic/web-development/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 3463716,
+                "title": "Complete Vue.js 3  (Inc. Composition API, Vue Router, Vuex)",
+                "url": "/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 126509814,
+                        "title": "Lachlan Miller",
+                        "name": "Lachlan",
+                        "display_name": "Lachlan Miller",
+                        "job_title": "Software Engineer",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/126509814_0e2d.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/126509814_0e2d.jpg",
+                        "initials": "LM",
+                        "url": "/user/lachlan-miller-4/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/3463716_36a0_4.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/3463716_36a0_4.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/3463716_36a0_4.jpg",
+                "published_title": "complete-vuejs-3-crash-course-composition-api-vue-router-vuex",
+                "tracking_id": "bHxYDL73RSmciwPAjWVLFA",
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "headline": "(RE-RECORDED April 2021) Vue.js 3 is here! Learn from \"Hello, Vue!\" to building large apps with Vuex and Vue Router.",
+                "num_subscribers": 15628,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    }
+                ],
+                "avg_rating": 4.4852943,
+                "avg_rating_recent": 4.369712,
+                "rating": 4.369712,
+                "num_reviews": 976,
+                "is_wishlisted": false,
+                "num_published_lectures": 85,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/3463716_36a0_4.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/3463716_36a0_4.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/3463716_36a0_4.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/3463716_36a0_4.jpg",
+                "is_in_user_subscription": false,
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]"
+                ],
+                "created": "2020-08-31T13:23:03Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2020-09-12T23:55:39Z",
+                "objectives_summary": [
+                    "Vue JS 3 from scratch",
+                    "Options and Composition API",
+                    "Vuex"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2021-04-01",
+                "preview_url": "/course/3463716/preview/",
+                "learn_url": "/course/complete-vuejs-3-crash-course-composition-api-vue-router-vuex/learn/",
+                "is_in_personal_plan_collection": true,
+                "is_in_premium": false,
+                "has_508_closed_captions": false,
+                "is_coding_exercises_badge_eligible": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "5.5 total hours",
+                "content_info_short": "5.5 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 288,
+                        "title": "Development",
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 4308,
+                        "display_name": "Vue JS",
+                        "title": "Vue JS",
+                        "topic_channel_url": "/topic/vue-js/",
+                        "url": "/topic/vue-js/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            },
+            {
+                "_class": "course",
+                "id": 3438062,
+                "title": "Advanced Web Developer Course - Beginner to Advanced (2024)",
+                "url": "/course/advanced-web-developer-course-beginner-to-advanced/",
+                "is_paid": true,
+                "visible_instructors": [
+                    {
+                        "_class": "user",
+                        "id": 38236092,
+                        "title": "Fatah Gabrial",
+                        "name": "Fatah",
+                        "display_name": "Fatah Gabrial",
+                        "job_title": "Web Developer & Professional Trainer",
+                        "image_50x50": "https://img-c.udemycdn.com/user/50x50/38236092_d1b8_2.jpg",
+                        "image_100x100": "https://img-c.udemycdn.com/user/100x100/38236092_d1b8_2.jpg",
+                        "initials": "FG",
+                        "url": "/user/fatahgabrial/"
+                    }
+                ],
+                "image_125_H": "https://img-c.udemycdn.com/course/125_H/3438062_61c1.jpg",
+                "image_240x135": "https://img-c.udemycdn.com/course/240x135/3438062_61c1.jpg",
+                "is_practice_test_course": false,
+                "image_480x270": "https://img-c.udemycdn.com/course/480x270/3438062_61c1.jpg",
+                "published_title": "advanced-web-developer-course-beginner-to-advanced",
+                "tracking_id": "qfwHl_HUSzO1eu5Abw_0VA",
+                "locale": {
+                    "_class": "locale",
+                    "locale": "en_US",
+                    "title": "English (US)",
+                    "english_title": "English (US)",
+                    "simple_english_title": "English"
+                },
+                "headline": "Complete Advanced Web Developer Course, Beginner to Advanced Level. 6 in 1 Course Bundle with Practical's with Projects",
+                "num_subscribers": 60293,
+                "caption_locales": [
+                    {
+                        "_class": "locale",
+                        "locale": "en_US",
+                        "title": "English (US)",
+                        "english_title": "English (US)"
+                    }
+                ],
+                "avg_rating": 4.55,
+                "avg_rating_recent": 4.4631424,
+                "rating": 4.4631424,
+                "num_reviews": 946,
+                "is_wishlisted": false,
+                "num_published_lectures": 515,
+                "num_published_practice_tests": 0,
+                "image_50x50": "https://img-c.udemycdn.com/course/50x50/3438062_61c1.jpg",
+                "image_100x100": "https://img-c.udemycdn.com/course/100x100/3438062_61c1.jpg",
+                "image_304x171": "https://img-c.udemycdn.com/course/304x171/3438062_61c1.jpg",
+                "image_750x422": "https://img-c.udemycdn.com/course/750x422/3438062_61c1.jpg",
+                "is_in_user_subscription": false,
+                "has_closed_caption": true,
+                "caption_languages": [
+                    "English [Auto]"
+                ],
+                "created": "2020-08-21T15:41:42Z",
+                "instructional_level": "Beginner Level",
+                "instructional_level_simple": "Beginner",
+                "content_length_practice_test_questions": 0,
+                "is_user_subscribed": false,
+                "buyable_object_type": "course",
+                "published_time": "2020-08-23T19:27:20Z",
+                "objectives_summary": [
+                    "Learn to Build a Complete Website with HTML5 & CSS3",
+                    "Build Live JavaScript Form Validation",
+                    "Integrate JavaScript within Your Website"
+                ],
+                "is_recently_published": false,
+                "last_update_date": "2023-06-12",
+                "preview_url": "/course/3438062/preview/",
+                "learn_url": "/course/advanced-web-developer-course-beginner-to-advanced/learn/",
+                "is_in_personal_plan_collection": false,
+                "is_in_premium": false,
+                "has_508_closed_captions": false,
+                "is_coding_exercises_badge_eligible": false,
+                "predictive_score": null,
+                "relevancy_score": null,
+                "input_features": null,
+                "lecture_search_result": null,
+                "curriculum_lectures": [],
+                "order_in_results": null,
+                "curriculum_items": [],
+                "instructor_name": null,
+                "content_info": "32 total hours",
+                "content_info_short": "32 hours",
+                "bestseller_badge_content": null,
+                "badges": [],
+                "free_course_subscribe_url": null,
+                "context_info": {
+                    "category": {
+                        "id": 288,
+                        "title": "Development",
+                        "url": "/courses/development/",
+                        "tracking_object_type": "cat"
+                    },
+                    "subcategory": null,
+                    "label": {
+                        "id": 8322,
+                        "display_name": "Web Development",
+                        "title": "Web Development",
+                        "topic_channel_url": "/topic/web-development/",
+                        "url": "/topic/web-development/",
+                        "tracking_object_type": "cl"
+                    }
+                }
+            }
+        ],
+        "secondary_items": [],
+        "remaining_item_count": 58,
+        "url": "/api-2.0/discovery-units/beginner/?apply_filters=False&context=topic&discovery_configuration_id=552&fft=skills_hub_top_new_beginner&fl=lbl&gl_tracking_id=HE1W4dKKQQarvbCN2FL9ZA&is_content_rankable=False&label_id=8322&member_of=skills_hub_top_new_beginner&ranking_index=1&ref_tracking_id=EOqdmqekSNy_NAYCiWEVfQ&sos=pl&timestamp=1704997800.0&u=562231561",
+        "type": "beginner",
+        "recommendation_params": {
+            "fl": "lbl",
+            "sos": "pl",
+            "u": 562231561,
+            "fft": "skills_hub_top_new_beginner",
+            "is_content_rankable": false,
+            "context": "topic",
+            "ref_tracking_id": "EOqdmqekSNy_NAYCiWEVfQ",
+            "gl_tracking_id": "HE1W4dKKQQarvbCN2FL9ZA",
+            "member_of": "skills_hub_top_new_beginner",
+            "source_object_count": null,
+            "label_id": 8322,
+            "timestamp": 1704997800.0,
+            "ranking_index": 1,
+            "discovery_configuration_id": 552,
+            "apply_filters": false
+        },
+        "url_title": null,
+        "score": 0.0,
+        "available_filters": {},
+        "aggregations": null,
+        "course_labels": null,
+        "sort_options": {},
+        "pagination": {
+            "next": {
+                "label": "Next",
+                "url": "/api-2.0/discovery-units/beginner/?apply_campaign_filter=False&context=topic&currency=inr&discovery_configuration_id=552&fft=skills_hub_top_new_beginner&fl=lbl&gl_tracking_id=HE1W4dKKQQarvbCN2FL9ZA&is_content_rankable=False&label_id=8322&locale=en_US&member_of=skills_hub_top_new_beginner&ranking_index=1&skip_price=true&sos=pl&source_page=topic_page&timestamp=1704997800.0&u=562231561&p=2",
+                "selected": false
+            },
+            "current_page": 1,
+            "total_page": 4,
+            "total_item_count": 70,
+            "pages": [
+                {
+                    "url": "/api-2.0/discovery-units/beginner/?apply_campaign_filter=False&context=topic&currency=inr&discovery_configuration_id=552&fft=skills_hub_top_new_beginner&fl=lbl&gl_tracking_id=HE1W4dKKQQarvbCN2FL9ZA&is_content_rankable=False&label_id=8322&locale=en_US&member_of=skills_hub_top_new_beginner&ranking_index=1&skip_price=true&sos=pl&source_page=topic_page&timestamp=1704997800.0&u=562231561&p=1",
+                    "label": 1,
+                    "selected": true
+                },
+                {
+                    "url": "/api-2.0/discovery-units/beginner/?apply_campaign_filter=False&context=topic&currency=inr&discovery_configuration_id=552&fft=skills_hub_top_new_beginner&fl=lbl&gl_tracking_id=HE1W4dKKQQarvbCN2FL9ZA&is_content_rankable=False&label_id=8322&locale=en_US&member_of=skills_hub_top_new_beginner&ranking_index=1&skip_price=true&sos=pl&source_page=topic_page&timestamp=1704997800.0&u=562231561&p=2",
+                    "label": 2,
+                    "selected": false
+                },
+                {
+                    "url": "/api-2.0/discovery-units/beginner/?apply_campaign_filter=False&context=topic&currency=inr&discovery_configuration_id=552&fft=skills_hub_top_new_beginner&fl=lbl&gl_tracking_id=HE1W4dKKQQarvbCN2FL9ZA&is_content_rankable=False&label_id=8322&locale=en_US&member_of=skills_hub_top_new_beginner&ranking_index=1&skip_price=true&sos=pl&source_page=topic_page&timestamp=1704997800.0&u=562231561&p=3",
+                    "label": 3,
+                    "selected": false
+                },
+                {
+                    "url": "/api-2.0/discovery-units/beginner/?apply_campaign_filter=False&context=topic&currency=inr&discovery_configuration_id=552&fft=skills_hub_top_new_beginner&fl=lbl&gl_tracking_id=HE1W4dKKQQarvbCN2FL9ZA&is_content_rankable=False&label_id=8322&locale=en_US&member_of=skills_hub_top_new_beginner&ranking_index=1&skip_price=true&sos=pl&source_page=topic_page&timestamp=1704997800.0&u=562231561&p=4",
+                    "label": 4,
+                    "selected": false
+                }
+            ]
+        },
+        "view_type": "default",
+        "member_of": "skills_hub_top_new_beginner",
+        "tracking_id": "EOqdmqekSNy_NAYCiWEVfQ",
+        "has_courses_in_ufb": true,
+        "description": "",
+        "subcategory_slug": "",
+        "fbt_discount_savings_percent": null,
+        "fbt_go_direct_to_cart": false
+    }
+}
