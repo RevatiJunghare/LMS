@@ -24,9 +24,7 @@ const productSlice = createSlice({
     name : "productSlice",
     initialState,
     reducers:{
-        setUserDetails(state,action){
-            state.data.userDetails = action.payload
-        }
+        
     },
     extraReducers(builder) {
         builder
@@ -44,10 +42,25 @@ const productSlice = createSlice({
           state.error = true,
           state.loading = false
         })
+        .addCase(ProductAction.signupaction.pending,(state)=>{
+            state.loading = true,
+            state.error = false
+        })
+        .addCase(ProductAction.signupaction.fulfilled,(state,action)=>{
+           state.data.userDetails = action.payload,
+           state.loading = false,
+           state.error = false
+        })
+        .addCase(ProductAction.signupaction.rejected,(state)=>{
+          state.data.userDetails = {},
+          state.error = true,
+          state.loading = false
+        })
     },
 })
 
 
+// export const {setUserDetails} = productSlice.actions
 export default productSlice.reducer
 
 

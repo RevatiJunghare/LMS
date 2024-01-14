@@ -10,12 +10,19 @@ const productRoute = express.Router()
 
 productRoute.post("/registration", async (req, res) => {
   try {
-    console.log(req.body)
-    const temp = new StudentModel(req.body);
-    await temp.save();
-    res.send({ msg: "user is registered" });
+   
+    const reva = await StudentModel.findOne({ email:req.body.email } )
+    console.log("revaaaaaaaa",reva)
+    if(reva){
+      res.status(400).send({"msg":"user is already exists","err":err.message});
+    }else{
+      const temp = new StudentModel(req.body);
+      await temp.save();
+      res.send({ msg: "user is registered" });
+    }
+    
   } catch (err) {
-    res.send({ msg: "user cannot registered", err: err });
+    res.status(400).send({"msg":"user cannot registered","err":err.message});
   }
 });
 
@@ -43,7 +50,8 @@ productRoute.post("/login", async (req, res) => {
       let token = jwt.sign({user:user}, 'school');
       res.send({ "msg": "user logged in" ,"token":token})
      }else{
-      res.send({ "msg": "wrong credentials" })
+      res.status(404).send({"msg":"Wrong Credentials"});
+      
      }
      
   }catch(err){
@@ -71,6 +79,7 @@ productRoute.get("/data",(req,res)=>{
     res.send({"msg":"data.."})
   }catch(err){
     res.send({"msg":"wrong credentials","err":err})
+   
   }
  
 })

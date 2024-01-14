@@ -15,19 +15,20 @@ export class ProductAction{
     })
 
 
-    static signupaction = createAsyncThunk("productSlice/signupaction",(data:any,{rejectWithValue})=>{
+    static signupaction = createAsyncThunk("productSlice/signupaction",(data:any)=>{
       return productNetworkService.signupUser(data)
         .then((res:any)=>{
            return res
         })
         .catch((err)=>{
-          console.log("error in signup action",err)
-          rejectWithValue(err)
+          alert("error in catch action1")
+          return err
         })
-        .finally(()=>{})
+        .finally(()=>{
+        })
     })
 
-    static signinaction = createAsyncThunk("productSlice/signinaction",(data,{rejectWithValue})=>{
+    static signinaction = createAsyncThunk("productSlice/signinaction",(data:any,{rejectWithValue})=>{
       return productNetworkService.signinUser(data)
         .then((res)=>{
           return res
