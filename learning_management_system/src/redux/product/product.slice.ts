@@ -23,9 +23,7 @@ const initialState:Props = {
 const productSlice = createSlice({
     name : "productSlice",
     initialState,
-    reducers:{
-        
-    },
+    reducers:{},
     extraReducers(builder) {
         builder
         .addCase(ProductAction.getProductsData.pending,(state)=>{
@@ -42,20 +40,7 @@ const productSlice = createSlice({
           state.error = true,
           state.loading = false
         })
-        .addCase(ProductAction.signupaction.pending,(state)=>{
-            state.loading = true,
-            state.error = false
-        })
-        .addCase(ProductAction.signupaction.fulfilled,(state,action)=>{
-           state.data.userDetails = action.payload,
-           state.loading = false,
-           state.error = false
-        })
-        .addCase(ProductAction.signupaction.rejected,(state)=>{
-          state.data.userDetails = {},
-          state.error = true,
-          state.loading = false
-        })
+        
     },
 })
 

@@ -1,12 +1,10 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import { Box } from "@mui/material";
 import { useState } from "react";
-import { ProductAction } from "../redux/product/product.action";
-import { useAppDispatch } from "../redux/store";
 import { styled } from "styled-components";
+import { productNetworkService } from "../redux/product/product.networkservice";
 
 const Signin = () => {
-  const dispatch = useAppDispatch();
   const [userinput, setUserinput] = useState<any>({
     email: "",
     password: "",
@@ -20,19 +18,18 @@ const Signin = () => {
     }));
   };
 
-  console.log("loginREv11111111111",userinput)
-
   const formSubmission = (e: any) => {
     e.preventDefault();
-    dispatch(ProductAction.signinaction(userinput))
-      .then((res)=>{
-        console.log("login credentials",res?.payload)
-
-      })
-      .catch((err)=>{
-        console.log("error in login",err)
-      })
-      .finally(()=>{})
+    
+    productNetworkService.signinUser(userinput)
+     .then((res)=>{
+      console.log(res)
+      alert(res?.data?.message)
+     })
+     .catch((err)=>{
+      alert(err?.response?.data?.message)
+     })
+     .finally(()=>{})
   };
 
   return (

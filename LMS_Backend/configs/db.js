@@ -16,8 +16,18 @@ const studentSchema = mongoose.Schema({
 
 const StudentModel = mongoose.model("user",studentSchema)
 
+const courseSchema = mongoose.Schema({
+    title:{type:String,required:true},
+    subtitle:{type:String,required:true},
+    description:{type:String,required:true},
+    image: {type: String,required: true}
+})
+
+const CourseModel = mongoose.model("createcourse",courseSchema)
+
 module.exports = {
     connection ,
-    StudentModel 
+    StudentModel,
+    CourseModel
 }
 

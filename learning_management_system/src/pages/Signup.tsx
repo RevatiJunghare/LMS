@@ -1,24 +1,24 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import { Box } from "@mui/material";
+import { Alert, Box } from "@mui/material";
 import { useEffect, useState } from "react";
 import { ProductAction } from "../redux/product/product.action";
 import { useAppDispatch, useAppSelector } from "../redux/store";
 import { styled } from "styled-components";
-import { signuperror, userdetails } from "../redux/product/product.selector";
+import { signuperror} from "../redux/product/product.selector";
 import { productNetworkService } from "../redux/product/product.networkservice";
+import ShowAlert from "../custumizedComponents/ShowAlert";
+import { useNavigate } from "react-router-dom";
 
 const Signup = () => {
-  const dispatch = useAppDispatch();
-  const user = useAppSelector(userdetails);
   const iserror = useAppSelector(signuperror)
   const [loading, setLoading] = useState(false);
+ const navigate = useNavigate()
   const [userinput, setUserinput] = useState<any>({
     name: "",
     email: "",
     password: "",
   });
 
-  console.log("userfromredux", user);
 
   const handleInputChange = (e: any) => {
     const { name, value } = e.target;
@@ -30,92 +30,78 @@ const Signup = () => {
 
   const formSubmission = (e: any) => {
     e.preventDefault();
-    // if (userinput.email.length == 0) {
-    //   alert("EmailID Should not be empty");
-    //   return false;
-    // } else if (userinput.password.length == 0) {
-    //   alert("Password should not be empty");
-    //   return false;
-    // } else if (userinput.password.length < 8) {
-    //   alert(
-    //     "Invalid Form, Password must contain greater than or equal to 8 characters"
-    //   );
-    //   return false;
-    // }
+   
+    if (userinput.email.length == 0) {
+      alert("EmailID Should not be empty");
+      return false;
+    } else if (userinput.password.length == 0) {
+      alert("Password should not be empty");
+      return false;
+    } else if (userinput.password.length < 8) {
+      alert(
+        "Invalid Form, Password must contain greater than or equal to 8 characters"
+      );
+      return false;
+    }
 
-    // for (let i = 0; i < userinput.password.length; i++) {
-    //   let countUpperCase: number = 0;
-    //   let countLowerCase: number = 0;
-    //   let countDigit: number = 0;
-    //   let countSpecialCharacters: number = 0;
-    //   const specialChars = [
-    //     "!",
-    //     "@",
-    //     "#",
-    //     "$",
-    //     "%",
-    //     "^",
-    //     "&",
-    //     "*",
-    //     "(",
-    //     ")",
-    //     "_",
-    //     "-",
-    //     "+",
-    //     "=",
-    //     "[",
-    //     "{",
-    //     "]",
-    //     "}",
-    //     ":",
-    //     ";",
-    //     "<",
-    //     ">",
-    //   ];
+    for (let i = 0; i < userinput.password.length; i++) {
+      let countUpperCase: number = 0;
+      let countLowerCase: number = 0;
+      let countDigit: number = 0;
+      let countSpecialCharacters: number = 0;
+      const specialChars = [
+        "!",
+        "@",
+        "#",
+        "$",
+        "%",
+        "^",
+        "&",
+        "*",
+        "(",
+        ")",
+        "_",
+        "-",
+        "+",
+        "=",
+        "[",
+        "{",
+        "]",
+        "}",
+        ":",
+        ";",
+        "<",
+        ">",
+      ];
 
-    //   if (specialChars.includes(userinput.password[i])) {
-    //     countSpecialCharacters++;
-    //   } else if (!isNaN(userinput.password[i] * 1)) {
-    //     countDigit++;
-    //   } else {
-    //     if (userinput.password[i] == userinput.password[i].toUpperCase()) {
-    //       countUpperCase++;
-    //     }
-    //     if (userinput.password[i] == userinput.password[i].toLowerCase()) {
-    //       countLowerCase++;
-    //     }
-    //   }
-    // }
+      if (specialChars.includes(userinput.password[i])) {
+        countSpecialCharacters++;
+      } else if (!isNaN(userinput.password[i] * 1)) {
+        countDigit++;
+      } else {
+        if (userinput.password[i] == userinput.password[i].toUpperCase()) {
+          countUpperCase++;
+        }
+        if (userinput.password[i] == userinput.password[i].toLowerCase()) {
+          countLowerCase++;
+        }
+      }
+    }
 
-    dispatch(ProductAction.signupaction(userinput))
-      .then((res) => {
-        const data:any = res?.payload
-        console.log("1111111111", data?.response?.data?.msg);
-        console.log("2222222",data?.response)
-         alert("Successfully registered");
-      })
-      .catch((err) => {
-        console.log("error in catch", err);
-        alert(err);
-        
-      })
-      .finally(() => {});
-
-      // productNetworkService.signupUser(userinput)
-      //   .then((res)=>{
-      //     console.log("success",res)
-      //     alert("success")
-      //   })
-      //   .catch((err)=>{
-      //     console.log("error",err)
-      //     alert("failed")
-      //   })
-      //   .finally(()=>{})
+      productNetworkService.signupUser(userinput)
+        .then((res:any)=>{
+          alert(res?.data?.message)
+          navigate("/login")
+        })
+        .catch((err)=>{
+           alert(err?.response?.data?.message)
+        })
+        .finally(()=>{})
   };
 
-  useEffect(()=>{
-    alert(iserror)
-  },[iserror])
+  // useEffect(()=>{
+    
+  // },[])
 
 
   return (
